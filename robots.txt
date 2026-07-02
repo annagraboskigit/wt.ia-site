@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://annagraboskigit.github.io/wt.ia-site/sitemap.xml
